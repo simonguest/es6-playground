@@ -1,0 +1,17 @@
+{
+  "name": "es6-playground",
+  "version": "1.0.0",
+  "description": "Playground repo for learning ES6, inspired by [this article](http://hn.premii.com/#/article/10953039)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-preset-es2015": "^6.3.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index-compiled.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
