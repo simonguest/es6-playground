@@ -29,7 +29,7 @@ var {name, age} = simon;
 console.log(`Welcome ${name}, aged ${age}`);
 
 // Imports and Exports
-import { answers } from './module1-compiled';
+import { answers } from './module1.js';
 console.log(answers);
 console.log(`...and the answer is: ${answers.otherAnswer}`);
 

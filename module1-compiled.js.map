@@ -1,1 +1,0 @@
-{"version":3,"sources":["module1.js"],"names":[],"mappings":";;;;;AAAA,IAAI,SAAS,EAAT;;AAEJ,SAAS,SAAT,GAAqB;AACnB,SAAO,EAAP,CADmB;CAArB;;AAIO,IAAI,4BAAU;AACnB,UAAO,MAAP;AACA,eAAa,WAAb;CAFS","file":"module1-compiled.js","sourcesContent":["var answer = 44;\n\nfunction getAnswer() {\n  return 42;\n}\n\nexport var answers = {\n  answer:answer,\n  otherAnswer: getAnswer()\n}"]}
